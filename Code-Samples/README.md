@@ -1,7 +1,13 @@
 # Code Samples
 
-This folder contains selected programming samples related to the PQRS Homeopathy academic project.
+This folder contains illustrative Java code samples prepared
+with reference to the PQRS Homeopathy academic project report.
 
-The samples are reconstructed for reference using the code excerpts available in the original academic project report.
+## Files
+- PatientRegistration.java – illustrative class scaffold.
+- Patient.java – illustrative patient data model.
 
-**Important:** These are not the complete original application source files and have not been independently verified against the original project.
+## Important
+These files are reconstructed examples and are not the
+original source code from the completed Android application.
+They have not been verified against the original implementation.
