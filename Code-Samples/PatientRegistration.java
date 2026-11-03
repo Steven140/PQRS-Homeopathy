@@ -1,13 +1,19 @@
+import android.os.Bundle;
+import androidx.appcompat.app.AppCompatActivity;
+
 /*
- * Project: PQRS Homeopathy
- * File: PatientRegistration.java
- *
- * Description:
- * Patient registration functionality for the PQRS Homeopathy
- * Android application.
- *
- * Note:
- * This is a reconstructed code sample based on excerpts
- * in the original academic project report. It is not the
- * complete original source file.
+ * Reconstructed illustrative class structure.
+ * Original implementation details are not fully available
+ * in the project report.
  */
+
+public class PatientRegistration extends AppCompatActivity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+
+        // TODO: Add the original patient registration layout reference.
+        // The exact layout resource name needs verification.
+    }
+}
